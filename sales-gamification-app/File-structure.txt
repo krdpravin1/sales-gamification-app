@@ -1,0 +1,14 @@
+sales-gamification-app/
+├── data/
+│   ├── activities.json
+│   ├── members.json
+│   └── logs.json
+├── pages/
+│   ├── api/
+│   │   └── data.js
+│   ├── _app.js
+│   ├── admin.js
+│   ├── index.js
+│   └── log.js
+├── package.json
+└── next.config.js
